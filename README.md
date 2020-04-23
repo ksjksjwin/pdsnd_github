@@ -5,10 +5,10 @@
 Udacity git project.
 
 ### Description
-Describe what your project is about and what it does
+This is the git project from udacity nanodegree program.
 
 ### Files used
-Include the files used
+Used a file of bikeshare.py and data of three cities (Chicago, Washington, Newyork)
 
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
