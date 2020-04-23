@@ -170,6 +170,7 @@ def display_raw_data(df):
 
     row_len = df.shape[0]
 
+    #Will keep ask user for raw data
     for i in range(0, row_len, 5):
         ans = input('\nDo you want see 5 lines of raw data?  (e.g \'yes\' or \'no\'): ')
         if ans.lower() != 'yes':
