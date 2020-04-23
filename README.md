@@ -2,7 +2,7 @@
 04/22/2020.
 
 ### Project Title
-Udacity git project.
+Udacity git project to upload bikeshare analyze project
 
 ### Description
 This is the git project from udacity nanodegree program.
